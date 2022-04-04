@@ -62,8 +62,8 @@ All this time, I was not sure in which direction I wanted to develop, so I start
 - JavaScript course for programmers by JavaScript.ru
 
 ## Languages
-Russian - Native
-English - B1
+- Russian - Native
+- English - B1
 
 ## Code example
 The solution of the [Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format) problem on Codewars:
