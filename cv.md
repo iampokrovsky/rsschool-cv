@@ -2,7 +2,7 @@
 Web developer
 
 ## About me
-I started my career as a coder in a small web studio with a friend of mine. Back then, I didn’t fully understand how websites worked, and I really wanted to understand it. I started learning PHP and then WordPress, got a job at a university where I developed a site on this CMS. Working at the university helped me develop and consolidate the necessary skills, after which I decided to increase my level of income and changed jobs twice until I found a company where I have been working for almost a year.
+I started my career as a coder in a small web studio with a friend of mine. Back then, I didn’t fully understand how websites worked, and I really wanted to understand it. I started learning PHP and then WordPress, got a job at a university where I developed a site on this CMS. Working at the university helped me develop and consolidate the necessary skills, after which I decided to increase my level of income and changed jobs twice until I found a company where I have been working for almost a Ёyear.
 
 All this time, I was not sure in which direction I wanted to develop, so I started experimenting with various technologies: Java, Python, etc. As a result, I realized that I like JavaScript the most. Now I'm studying frontend, and after that I plan to study backend on NodeJS, because in the future I want to become an IT entrepreneur and create my own products.
 
